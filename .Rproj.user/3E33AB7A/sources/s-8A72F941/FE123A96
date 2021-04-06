@@ -3,23 +3,23 @@
     "path": "~/R/TexasSchoolDistrictConnectivity/connectivity.R",
     "project_path": "connectivity.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "2976614457",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1617720402321.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "27,0",
+        "cursorPosition": "25,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1617728802,
+    "lastKnownWriteTime": 1617728904,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1617728803680,
+    "last_content_update": 1617728904493,
     "read_only": false,
     "read_only_alternatives": []
 }

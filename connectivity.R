@@ -24,4 +24,3 @@ combined_frame <- combined_frame %>%
   ) %>%
   distinct()
 
-b = sum(combined_frame$population_under_18)
