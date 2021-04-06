@@ -1,0 +1,32 @@
+{
+    "id": "5A74C534",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1617720991981.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "expression": "cleaned_connectivity_data",
+        "caption": "cleaned_connectivity_data",
+        "totalObservations": 1022,
+        "displayedObservations": 1022,
+        "variables": 311,
+        "cacheKey": "ACE7F22B",
+        "object": "cleaned_connectivity_data",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=cleaned_connectivity_data&cache_key=ACE7F22B&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 8388365976250574190,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1617720991981,
+    "read_only": false,
+    "read_only_alternatives": []
+}

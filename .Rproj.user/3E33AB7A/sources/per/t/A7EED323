@@ -1,0 +1,32 @@
+{
+    "id": "A7EED323",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1617722606392.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "expression": "combined_frame",
+        "caption": "combined_frame",
+        "totalObservations": 1952,
+        "displayedObservations": 1952,
+        "variables": 317,
+        "cacheKey": "18950E3D",
+        "object": "combined_frame",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=combined_frame&cache_key=18950E3D&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 5917857927861726316,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1617722606392,
+    "read_only": false,
+    "read_only_alternatives": []
+}

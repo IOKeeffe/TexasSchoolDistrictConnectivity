@@ -1,0 +1,32 @@
+{
+    "id": "C6ABC3AD",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1617720484145.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "expression": "connectivity_data",
+        "caption": "connectivity_data",
+        "totalObservations": 1022,
+        "displayedObservations": 1022,
+        "variables": 310,
+        "cacheKey": "F8CFAAD0",
+        "object": "connectivity_data",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=connectivity_data&cache_key=F8CFAAD0&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 6879657902092153955,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1617720484145,
+    "read_only": false,
+    "read_only_alternatives": []
+}
